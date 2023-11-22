@@ -30,7 +30,7 @@ Task: Create class intervals for the salaries in the company. This will help you
 Task: Use a pie chart, bar graph, or any other suitable visualization to show the proportion of people working in different departments.  
 
 
-`E. Position Tier Analysis: `Different positions within a company often have different tiers or levels. \ 
+`E. Position Tier Analysis: `Different positions within a company often have different tiers or levels.\
 Task: Use a chart or graph to represent the different position tiers within the company. This will help in understanding the distribution of positions across different tiers.
 <br/>   
 
